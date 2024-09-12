@@ -36,8 +36,7 @@ Noteworthy achievements include solving over 200 coding problems with a 64.27% a
             </li>
             <li>⚡ Fun fact: <b>I am a Artist too :)</b>.</li>
         </ul>
-        <h2>Publications</h2>
-    <a href="https://arks0001.medium.com/qwhale-hybrid-reinforcement-learning-algorithm-for-energy-efficient-optimization-and-scheduling-61e9375ddaa0">QWhale & SARSAWhale Hybrid Reinforcement Learning Algorithm for Energy Efficient Optimization and Scheduling</a>
+        
     </div>
     <br>
     <br>
