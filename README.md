@@ -37,9 +37,7 @@ Noteworthy achievements include solving over 200 coding problems with a 64.27% a
             <li>⚡ Fun fact: <b>I am a Artist too :)</b>.</li>
         </ul>
         
-    </div>
-    <br>
-    <br>
+
 ```py
 About Me = [
     "I'm a student with a passion for coding and a journey of continuous learning.",
