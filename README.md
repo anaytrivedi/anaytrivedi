@@ -1,7 +1,7 @@
 <div>
  <!-- anay image at at top -->
     <div align="center">
-        <a href="https://github.com/anaytrivedi"><img src="https://github.com/anaytrivedi/anaytrivedi/assets/120269805/62e59f23-8ac5-412a-855d-6653f2cb0dfe"></a>
+        <a href="https://github.com/anaytrivedi"><img src="[https://github.com/anaytrivedi/anaytrivedi/assets/120269805/62e59f23-8ac5-412a-855d-6653f2cb0dfe](https://github.com/anaytrivedi/anaytrivedi/blob/main/Banner.png)"></a>
     </div>
     <!-- typing effect -->
     <div align="center">
