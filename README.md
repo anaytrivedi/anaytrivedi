@@ -1,36 +1,42 @@
 <div>
  <!-- anay image at at top -->
-    <div align="center">
-        <a href="https://github.com/anaytrivedi"><img src="[https://github.com/anaytrivedi/anaytrivedi/assets/120269805/62e59f23-8ac5-412a-855d-6653f2cb0dfe](https://github.com/anaytrivedi/anaytrivedi/blob/main/Banner.png)"></a>
-    </div>
+     <div align="center">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=600&pause=1000&color=106FF7&center=true&vCenter=true&width=800&height=100&lines=Hi+there!;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+     </d>
     <!-- typing effect -->
     <div align="center">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&center=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Anay+Trivedi;A+Data+Analyst;A+Problem Solver;A+DevOps+Enthusiast;A+Frontend+Developer;A+Cloud+Enthusiast+and;A+Machine+Learning+Expert" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&center=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Anay+Trivedi;A+Tech+Enthusiast;A+Problem Solver;A+DevOps+Enthusiast;A+Frontend+Developer;A+Cloud+Enthusiast+and;A+Machine+Learning+Enthusiast" alt="Typing SVG" /></a>
     </div>
     <div align="center">
     <a href="https://www.linkedin.com/in/ayush-verma-15912a229/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="37" height="35" style="margin-right: 10px;" /></a>
     <a href="mailto:anaytrivedi194.com"><img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" width="37" height="35" style="margin-right: 10px;" /></a>
     <a href="https://t.me/anayy_trivedi"><img src="https://i.pinimg.com/originals/31/2a/f9/312af9235aadad69655688eaee97eabf.png" width="35" height="35" style="margin-right: 10px;" /></a>
-    <a href="https://api.whatsapp.com/send?phone=9305813730"><img src="https://github.com/anaytrivedi/anaytrivedi/assets/120269805/a63dc3b2-47ca-497c-8302-d32abcad18ed" width="35" height="35" style="margin-right: 10px;" /></a>
+         <a href="https://api.whatsapp.com/send?phone=9305813730"><img src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png?raw=true" width="35" height="35" style="margin-right: 10px;" /></a>
+
 </div>
 
 <div align="left">
         <br />
         <p>
             <strong>
-             As a Computer Science and Engineering Student with a Fervent Passion for Technology and Innovation. I'm Proficient in Data Analytics, Machine Learning, AWS, and DevOps, I am also an enthusiast in Web and Android Development. My technical expertise spans programming languages such as Python, Java, C/C++, SQL,Kotlin, Dart and SAS, and includes advanced skills with tools and technologies like NLTK, Dash, Pandas, Flask, OpenCV, Flutter, Keras, Docker, Kubernetes and AWS services including S3, Lambda, and Athena. I'm well-versed in ETL processes, QuickSight, and SageMaker and web technologies including HTML, CSS, Bootstrap, React and JS, which empowers me to tackle a wide range of complex challenges effectively.
-
-My strengths in cloud computing and data analysis are demonstrated through my work with CloudSim to optimize VM resources and improve system performance.
-In my work, I focus on designing and deploying machine learning models to extract actionable insights and drive data-informed decision-making. My experience in cloud architecture allows me to build scalable and efficient solutions using AWS and other leading platforms. Additionally, I am passionate about creating dynamic web and mobile applications, ensuring both functionality and a great user experience. My expertise in ETL processes further enhances my ability to manage and transform data for improved analysis and outcomes.
+             As a Computer Science and Engineering Student with a Fervent Passion for Technology and Innovation.
+             I'm a **B.Tech Computer Science student** at Pranveer Singh Institute of Technology, passionate about developing innovative solutions through **software engineering** and **machine learning**. With a focus on delivering clean and efficient code, I enjoy tackling complex challenges and transforming ideas into real-world applications.
 
 Noteworthy achievements include solving over 200 coding problems with a 64.27% acceptance rate, earning 5-star ratings in Python Programming and Problem Solving on HackerRank.
             </strong>
         </p>
         <h1></h1>
         <ul>
-            <li>🔭 <b>I’m currently working on</b>: SAS Programming, QuickSight, Athena, Sagemaker, S3...etc .</li>
-            <li>🌱 <b>I’m currently learning</b>:SAS Programming, Cloud Automation and Data Analytics using AWS</li>
-            <li>💬 <b>Ask me about</b>: Machine Learning, Artificial Intelligence, Web Development, Data Analysis, Android App Development and Competetive Programming.</li>
+            <li>🔭 <b> 🌱 Currently working on:
+- ML-driven Medicinal Plants Identification System using image processing techniques.
+- Building personal projects that bridge the gap between software development and data science.
+</li>
+<li> 🌟 What I love:
+- Solving complex problems with a focus on performance and scalability.
+- Working on cutting-edge technologies in AI, web development, and cloud computing.
+- Collaborating with fellow developers to build open-source projects.</li>
+
+<li>💬 <b>Ask me about</b>: Machine Learning, Artificial Intelligence, Web Development, Data Analysis, Android App Development and Competetive Programming.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>🤔 <b>I’m currently open for</b>: A new Internship opportunity and Open Source Projects.
             </li>
