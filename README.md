@@ -60,19 +60,15 @@ About Me = [
     <h3><b>Frontend Development</b></h3>
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" title="HTML5" alt="html5" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" title="CSS3" alt="css3" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/457970d7-70b3-4244-bdb8-aed8e0f6d3f0" title="Bootstrap" alt="Bootstrap" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/imgul/imgul/main/logos/Tailwind-CSS-Logo.webp" title="Tailwind" alt="Bootstrap" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" title="JavaScript" alt="javascript" width="40" height="40"/></a></code>&nbsp;
 </div>
 
 <div align="center">
     <h3><b>Programming Languages</b></h3>
-    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="HTML5" alt="html5" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" title="CSS3" alt="css3"  height="40"/></a></code>&nbsp;
+       <code><a href="#" target="_blank"><img src="https://static.javatpoint.com/core/images/java-logo1.png" title="Java" alt="java"  height="40"/></a></code>&nbsp;&nbsp;
+    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="C" alt="html5" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" alt="python"  height="40"/></a></code>&nbsp;&nbsp;
-    <code><a href="#" target="_blank"><img src="https://static.javatpoint.com/core/images/java-logo1.png" title="Java" alt="java"  height="40"/></a></code>&nbsp;&nbsp;
-    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" title="Kotlin" alt="Kotlin"  height="40"/></a></code>&nbsp;&nbsp;
-    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" title="Dart" alt="Dart"  height="40"/></a></code>&nbsp;&nbsp;
- <code><a href="#" target="_blank"><img src="https://github.com/Ayushverma135/Ayushverma135/assets/120269805/dab5a445-c24b-466c-a5c8-4f70117f7be3" title="Dart" alt="SAS"  height="40"/></a></code>&nbsp;&nbsp;
 </div>
 <div align="center">
     <h3><b>Libraries and Frameworks</b></h3>
