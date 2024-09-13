@@ -76,31 +76,22 @@ About Me = [
      <code><a href="#" target="_blank"> <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" title="Open CV" alt="open cv" height="40"/></a></code>&nbsp;
       <code><a href="#" target="_blank"> <img src="https://logosandtypes.com/wp-content/uploads/2024/02/NumPy.png" title="Numpy" alt="numpy" height="40"/></a></code>&nbsp;
      <code><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" title="Tensorflow" alt="tensorflow" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqoAubNiI_aSMGINDD6rQZMepg417jWh7UMQ&s" title="Scipy" alt="scipy" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" title="Matplotlib" alt="matplotlib" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" title="Seaborn" alt="seaborn" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://e7.pngegg.com/pngimages/654/56/png-clipart-flask-web-framework-python-software-framework-jinja-flask-miscellaneous-monochrome-thumbnail.png" title="Flask" alt="Flask" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="React" alt="React" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" title="Express" alt="Express" height="40"/></a></code>&nbsp;
-     <code><a href="#" target="_blank"> <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" title="Scikit Learn" alt="sklearn" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flutter_logo.svg" title="Flutter" alt="Flutter" height="40"/></a></code>&nbsp;
      <code><a href="#" target="_blank"> <img src="https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png" title="Pandas" alt="pandas" height="40"/></a></code>&nbsp;
-     <code><a href="#" target="_blank"><img src="https://github.com/Ayushverma135/Ayushverma135/assets/120269805/dab5a445-c24b-466c-a5c8-4f70117f7be3" title="Dart" alt="SAS"  height="40"/></a></code>&nbsp;&nbsp;
 
 </div>
 
 <div align="center">
     <h3><b>Databases</b></h3>
     <code><a href="#" target="_blank"><img src="https://pngimg.com/uploads/mysql/mysql_PNG11.png" title="MySql" alt="mysql" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" title="PostgreSQL" alt="postgresql" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/4b917130-00f5-4f0b-842c-634a29600699" title="MongoDB" alt="MongoDB" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://github.com/Ayushverma135/Ayushverma135/assets/120269805/a36bce81-4015-4756-a869-3165c5c8404e" title="RoomDB" alt="RoomDB" height="40"/></a></code>&nbsp;
 </div>
 
 <div align="center">
     <h3><b>Cloud</b></h3>
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" title="aws" alt="aws"  height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/0f731d8d-4323-40be-8e68-eba66f1aa486" title="Cloudsim" alt="CloudSim"  height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/e900a288-5580-406d-953d-7984a6f6b9da" title="Google Cloud" alt="Google Cloud"  height="40"/></a></code>&nbsp;
 </div>
 
@@ -110,17 +101,14 @@ About Me = [
     <code><a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" title="GitHub" alt="github" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://d28yx2zopyx2ad.cloudfront.net/assets/git.png" title="Git" alt="git" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" title="Eclipse" alt="eclipse" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/768px-Android_Studio_Icon_3.6.svg.png?20210301045217" title="Android Studio" alt="Android Studio" width="40" height="40"/></a></code>&nbsp;
      <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/8aa4ac73-748f-4f59-a89c-a1061b8b5917" title="IntelliJ Idea" alt="IntelliJ Idea" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/c19d8e21-c373-47c7-926a-29a4bbe9898c" title="Git" alt="Jupyter" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/c19d8e21-c373-47c7-926a-29a4bbe9898c" title="Jupyter" alt="Jupyter" width="40" height="40"/></a></code>&nbsp;
 </div>
 
 <div align="center">
     <h3><b>DevOps Tools</b></h3>
     <code><a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" title="GitHub" alt="github" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://d28yx2zopyx2ad.cloudfront.net/assets/git.png" title="Git" alt="git" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" title="Docker" alt="Docker" width="40" height="40"/></a></code>&nbsp;
-     <code><a href="#" target="_blank"> <img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/224e4ba9-7599-4ea1-b696-009818138def" title="Kubernetes" alt="Kubernetes" width="40" height="40"/></a></code>&nbsp;
     <br><br>
     <br><br>
 </div>
