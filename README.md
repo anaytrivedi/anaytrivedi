@@ -19,8 +19,8 @@
         <br />
         <p>
             <strong>
-             As a Computer Science and Engineering Student with a Fervent Passion for Technology and Innovation.
-             I'm a **B.Tech Computer Science student** at Pranveer Singh Institute of Technology, passionate about developing innovative solutions through **software engineering** and **machine learning**. With a focus on delivering clean and efficient code, I enjoy tackling complex challenges and transforming ideas into real-world applications.
+             As a <i>Computer Science and Engineering Student</i> with a Fervent Passion for Technology and Innovation.
+             I'm a <i>B.Tech Computer Science</i> student at <i>Pranveer Singh Institute of Technology</i>, passionate about developing innovative solutions through software engineering and machine learning. With a focus on delivering clean and efficient code, I enjoy tackling complex challenges and transforming ideas into real-world applications.
 
 Noteworthy achievements include solving over 200 coding problems with a 64.27% acceptance rate, earning 5-star ratings in Python Programming and Problem Solving on HackerRank.
             </strong>
