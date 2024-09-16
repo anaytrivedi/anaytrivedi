@@ -1,7 +1,7 @@
 <div>
  <!-- anay image at at top -->
      <div align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=600&pause=1000&color=106FF7&center=true&vCenter=true&width=800&height=100&lines=Hi+there!;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=600&pause=1000&color=106FF7&center=true&vCenter=true&width=800&height=100&lines=✨Anay+Trivedi✨" alt="Typing SVG" /></a>
      </d>
     <!-- typing effect -->
     <div align="center">
